@@ -2,6 +2,7 @@ name: example-environment
 channels:
   - conda-forge
 dependencies:
+  - gfortran_linux-64
   - numpy
   - scipy
   - scikit-learn
